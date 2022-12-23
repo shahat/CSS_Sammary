@@ -1,0 +1,1 @@
+the rest file is setting the browswer defualt css to normal thing it is good to add it to your project 
